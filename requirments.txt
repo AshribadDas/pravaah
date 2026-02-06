@@ -1,0 +1,9 @@
+EXTERNAL LIBRARIES
+------------------
+
+1.pandas
+2.numpy
+3.scikit-learn
+4.nltk
+5.json
+6.collections
