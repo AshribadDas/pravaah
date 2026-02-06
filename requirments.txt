@@ -1,9 +1,9 @@
 EXTERNAL LIBRARIES
 ------------------
 
-1.pandas
-2.numpy
-3.scikit-learn
-4.nltk
+1.pandas==2.2.2
+2.numpy==1.26.4
+3.scikit-learn==1.4.2
+4.nltk==3.8.1
 5.json
 6.collections
