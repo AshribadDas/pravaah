@@ -1,4 +1,10 @@
-🏆 Causal Conversational Analysis for Pravaah’26
+TEAM NAME : CODEBLAZE
+TEAM MEMBERS : ASHRIBAD DAS 
+               ABINASH NAYAK
+               SASWAT KUMAR SAMAL
+               SUJAL KUMAR MAHASUAR
+ 
+ Causal Conversational Analysis for Pravaah’26
 🚀 Overview
 
 This project presents a causal analysis and interactive reasoning system built over conversational transcripts for the Pravaah’26 IIT Bhubaneswar Data Science Hackathon.
